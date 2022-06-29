@@ -11,3 +11,5 @@ A scrp to crash da sandbox!! (must have python 3)
 7. NOTE: Python versions that are not above 3 will not work
 8. Good luck using this and i hope this wont get patched
 9. Credits to natiobalist
+# Credits
+Nationalist x m0dE
